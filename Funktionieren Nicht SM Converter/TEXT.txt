@@ -4,4 +4,11 @@ Ich nutze die Blender Version 4.5 und 4.4 hat aber bei beiden nicht funktioniert
 kommt hier der Fehler wäre lieb wenn du mir weiterhelfen könntest wäre lieb schönen Gruß vorab
 
 Update kommt wenn ich eine Lösung habe
-Letztes Update 20.08.2025
+
+Billd https://github.com/opdomi/error--/blob/main/Funktionieren%20Nicht%20SM%20Converter/Screenshot%20(169).png
+
+Letztes Update 20.08.2025 um 23:23 Uhr 
+
+Problem gelöst 
+
+Nein
