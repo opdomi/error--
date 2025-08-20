@@ -1,3 +1,18 @@
+Endlich
+Hello, I don't know where the trans is, but it must end in the masters problem.
+
+I'm using Blender versions 4.5 and 4.4, but it didn't work for either. I get the error here. I'd appreciate it if you could help me. Best regards, in advance.
+
+Update will follow when I have a solution.
+
+Image https://github.com/opdomi/error--/blob/main/Funktionieren%20Nicht%20SM%20Converter/Screenshot%20(169).png
+
+Last updated August 20, 2025, at 11:23 PM
+problem solved Nein
+link
+
+German
+
 Hallo ich weiß nicht wo Trans liegt aber enden muss ab in der Masters Problem
 
 Ich nutze die Blender Version 4.5 und 4.4 hat aber bei beiden nicht funktioniert
@@ -9,6 +24,7 @@ Billd https://github.com/opdomi/error--/blob/main/Funktionieren%20Nicht%20SM%20C
 
 Letztes Update 20.08.2025 um 23:23 Uhr 
 
-Problem gelöst 
+Problem gelöst Nein
+link
 
-Nein
+
